@@ -14,5 +14,5 @@
 1. **Prometheus and Grafana Deployment:**
    We will use the Docker-compose file and pull images of Prometheus and Grafana
    
-2. **Node.js**
+2. **Node.js:**
    We will use the same Docker-compose file to build a Docker container serving the app
