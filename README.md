@@ -135,3 +135,41 @@ Key features of Grafana include:
 Grafana is widely used by DevOps, system administrators, and data analysts for monitoring infrastructure, applications, and services. It has become a standard tool for creating interactive, real-time dashboards that help users understand and respond to the performance and health of their systems.
 
 </details>
+
+<br>
+
+## Prerequisites
+
+- A work station or an **EC2** instance (I am using **Ubuntu 22.04**).
+   
+- <details markdown=1><summary markdown="span">Install Docker-compose, Node.js, npm, and Git </summary>
+   <br>
+   
+   - **Install Docker-compose**
+
+   ```
+   sudo apt update
+   sudo apt install docker-compose
+   ```
+   
+   - **Install Node.js**
+
+   ```
+   sudo apt install nodejs
+   ```
+   
+   - **Install npm**
+
+   ```
+   sudo apt install npm
+   ```
+   
+   - **Install Git**
+
+   ```
+   sudo apt install git
+   ```
+   
+  </details>
+
+<br>
