@@ -22,7 +22,7 @@
 ## Architecture Diagram
 
 <p align="center">
-  <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/0d26c633-a3f0-4886-95cf-e37af5e45df0" width="800px"/>
+  <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/ec57c7b7-187f-410c-8edf-63d7e7a8314f" width="800px"/>
 </p>
 
 <br>
