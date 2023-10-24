@@ -112,4 +112,26 @@ Prometheus is often used in combination with other technologies such as Grafana 
 
 **<details markdown=1><summary markdown="span">Grafana details</summary>**
 
+Grafana is an open-source, multi-platform analytics and monitoring platform designed to integrate with various data sources and provide advanced visualization, alerting, and exploration capabilities. It is commonly used in conjunction with time-series databases and monitoring systems, including Prometheus, InfluxDB, Elasticsearch, and more. Grafana allows users to create interactive and customizable dashboards to gain insights from their data.
+
+Key features of Grafana include:
+
+1. **Data Source Integration**: Grafana supports a wide range of data sources, including time-series databases (Prometheus, InfluxDB, Graphite), relational databases (MySQL, PostgreSQL), cloud services (AWS CloudWatch, Google Cloud Monitoring), and more. This versatility allows users to consolidate data from different systems in a single dashboard.
+
+2. **Dashboard Creation**: Users can create dashboards to visualize and explore data through a web-based interface. Grafana offers a drag-and-drop dashboard builder with various panel types for different visualizations, such as graphs, tables, and maps.
+
+3. **Data Querying**: Grafana provides an SQL-like query language for retrieving and manipulating data from data sources. Users can fine-tune queries and create custom transformations.
+
+4. **Alerting**: Grafana supports alerting based on data queries and conditions. Users can configure thresholds and alert notifications, including email, Slack, and other channels, through integration with notification systems.
+
+5. **Templating**: Templating enables the creation of dynamic dashboards. Variables can be used in queries and allow for easy switching between different data sources or filtering data.
+
+6. **User and Team Management**: Grafana includes user authentication, role-based access control, and team management features, making it suitable for multi-user and collaborative environments.
+
+7. **Plugins and Extensibility**: Grafana's plugin system allows for custom panels, data sources, and apps to be developed and integrated into the platform. This extensibility makes it adaptable to various use cases.
+
+8. **Community and Community-Driven Development**: Grafana has an active and engaged open-source community, which results in frequent updates, a wide range of plugins, and community-contributed resources.
+
+Grafana is widely used by DevOps, system administrators, and data analysts for monitoring infrastructure, applications, and services. It has become a standard tool for creating interactive, real-time dashboards that help users understand and respond to the performance and health of their systems.
+
 </details>
