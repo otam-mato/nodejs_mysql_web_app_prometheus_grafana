@@ -14,7 +14,7 @@
 ## Deployment Strategy
 
 1. **Prometheus and Grafana Deployment:**
-   We will use the Docker-compose file and pull images of Prometheus and Grafana
+   We will use the Docker-compose file and pull images of Prometheus and Grafana from DockerHub
    
 2. **Node.js:**
    We will use the same Docker-compose file to build a container, serving the app
