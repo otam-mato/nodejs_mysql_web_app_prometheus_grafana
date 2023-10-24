@@ -16,3 +16,13 @@
    
 2. **Node.js:**
    We will use the same Docker-compose file to build a Docker container serving the app
+
+<br>
+
+## Architecture Diagram
+
+<p align="center">
+  <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/0d26c633-a3f0-4886-95cf-e37af5e45df0" width="800px"/>
+</p>
+
+<br>
