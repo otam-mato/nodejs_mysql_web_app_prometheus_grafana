@@ -26,3 +26,15 @@
 </p>
 
 <br>
+
+## Technologies used
+- **Prometheus**
+- **Grafana**
+- **Node.JS**
+- **Express**
+- **JavaScript**
+- **MySQL**
+- **Docker, Docker-Compose**
+- **AWS**
+- **EC2**
+<br>
