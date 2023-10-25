@@ -189,8 +189,9 @@ Follow these steps for successful implementation:
 ## Screenshots
 
 <p align="center">
-  <img src="" width="700px"/>
+  <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/41b3ff50-2ef2-44f7-9bbf-eb8f875305dd" width="700px"/>
 </p>
+
 
 <p align="center">
   <img src="" width="700px"/>
