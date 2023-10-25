@@ -182,7 +182,7 @@ Follow these steps for successful implementation:
 2. [**Create the configuration file for Prometheus"prometheus.yml".**](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/blob/main/README.md#2-create-the-configuration-file-for-prometheusprometheusyml)
 4. [**Create the configuration file for Grafana "datasources.yml"**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#3-launch-the-elk-stack-with-this-docker-compose-file)
 5. [**Create the Docker-compose file docker-compose.yml**](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/blob/main/README.md#4-create-the-docker-compose-file-docker-composeyml)
-7. [**Launch the docker-compose.yml file**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#5-launch-the-app-and-click-a-few-times-at-any-links-to-start-producing-logs)
+7. [**Launch the docker-compose.yml file**](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/blob/main/README.md#5-run-all-containers-with-the-docker-composeyml-file)
 
 <br>
 
