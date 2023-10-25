@@ -237,7 +237,7 @@ Follow these steps for successful implementation:
   
 ### 3. Create the configuration file for Grafana "datasources.yml"
 
-- [**datasources.yml**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
+- [**datasources.yml**](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/blob/6334bcd707d3b153ec67a2a9e6e5c2fe43721615/web_app_files/containers/node_app/grafana/datasources.yml)
 
 ### 4. Create the Docker-compose file "docker-compose.yml"
 
