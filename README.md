@@ -164,7 +164,7 @@ Grafana is widely used by DevOps, system administrators, and data analysts for m
    sudo apt install npm
    ```
    
-   - **Install Git**
+   - **Install Git if you want to clone this repository**
 
    ```
    sudo apt install git
