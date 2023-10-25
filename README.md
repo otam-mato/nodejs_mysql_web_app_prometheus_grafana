@@ -194,7 +194,15 @@ Follow these steps for successful implementation:
 
 
 <p align="center">
-  <img src="" width="700px"/>
+  <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/0a7f8661-2b55-476b-8227-aac39c578c8a" width="700px"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/8d851dd0-5c0f-424c-9cca-344ab1072aed" width="700px"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/8d851dd0-5c0f-424c-9cca-344ab1072aed" width="700px"/>
 </p>
 
 <br>
