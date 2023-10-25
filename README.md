@@ -202,7 +202,7 @@ Follow these steps for successful implementation:
 </p>
 
 <p align="center">
-  <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/8d851dd0-5c0f-424c-9cca-344ab1072aed" width="700px"/>
+  <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/0dba5508-e41e-46ee-9159-446dcf2ffa75" width="700px"/>
 </p>
 
 <br>
