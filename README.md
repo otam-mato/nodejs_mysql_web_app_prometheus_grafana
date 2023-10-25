@@ -216,6 +216,11 @@ Follow these steps for successful implementation:
 ### 1. Modify the app files to allow Prometheus collecting metrics
 
 - [**package.json**](https://github.com/otam-mato/nodejs_elk/blob/1296ecd681aa431154f71953f839891f74ca50b2/app/config/config.js)
+
+  **<details markdown=1><summary markdown="span">Detailed app description</summary>**
+
+  </details>
+  
 - [**index.js**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
 
 ### 2. Create the configuration file for Prometheus"prometheus.yml"
