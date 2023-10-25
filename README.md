@@ -246,11 +246,10 @@ Follow these steps for successful implementation:
 ### 5. Launch the "docker-compose.yml" file
 
 ```
-docker-compose up -d 
-    
+docker-compose up -d  
 ```
 
-<p align="center">
-  <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/68aa28ad-e7ea-4311-b07b-4ed61989627d" width="700px"/>
-</p>
+
+<img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/68aa28ad-e7ea-4311-b07b-4ed61989627d" width="700px"/>
+
 
