@@ -243,6 +243,47 @@ Follow these steps for successful implementation:
 
 - [**docker-compose.yml**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
 
+  **<details markdown=1><summary markdown="span">click for details</summary>**
+
+  This docker-compose.yml configuration defines a set of services and their configurations for running a monitoring stack, including Prometheus, Grafana, and a Node.js application. Here's a breakdown of the configuration:
+
+   1. **Version:** This Docker Compose file is written in version 2.1 format.
+   
+   2. **Networks:**
+      - `my-network`: This defines a custom Docker network named "my-network" with the "bridge" driver. This network will be used to connect the containers.
+   
+   3. **Volumes:**
+      - `prometheus_data`: A named volume used for persisting Prometheus data.
+      - `grafana_data`: A named volume used for persisting Grafana data.
+   
+   4. **Services:**
+   
+      a. **Prometheus:**
+         - `image`: Specifies the Docker image for Prometheus with version 2.20.1.
+         - `container_name`: The name of the Prometheus container is "prometheus."
+         - `volumes`: Mounts a configuration file `prometheus.yml` from the host to the container and uses the `prometheus_data` volume for data persistence.
+         - `ports`: Maps port 9090 from the host to port 9090 in the Prometheus container.
+         - `expose`: Exposes port 9090.
+         - `networks`: Connects to the "my-network" custom Docker network.
+   
+      b. **Grafana:**
+         - `image`: Specifies the Docker image for Grafana with version 7.1.5.
+         - `container_name`: The name of the Grafana container is "grafana."
+         - `volumes`: Mounts data source configuration (`datasources.yml`) from the host to the container and uses the `grafana_data` volume for data persistence.
+         - `environment`: Sets some environment variables to configure Grafana for anonymous access.
+         - `ports`: Maps port 3001 from the host to port 3000 in the Grafana container.
+         - `expose`: Exposes port 3000.
+         - `networks`: Connects to the "my-network" custom Docker network.
+   
+      c. **node-application-monitoring-app:**
+         - `build`: Builds the container from the specified context (Dockerfile) in `/web_app_files/containers/node_app/codebase_partner`.
+         - `container_name`: The name of the Node.js application container is "myapp."
+         - `ports`: Maps port 3000 from the host to port 3000 in the Node.js application container.
+         - `expose`: Exposes port 3000.
+         - `networks`: Connects to the "my-network" custom Docker network.
+
+  </details>
+
 ### 5. Run all containers with the "docker-compose.yml" file
 
 ```
