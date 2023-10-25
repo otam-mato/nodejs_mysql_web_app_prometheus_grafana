@@ -223,7 +223,7 @@ Follow these steps for successful implementation:
 
   </details>
   
-- [**index.js**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
+- [**index.js**](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/blob/6f36f04501a92b84988d206124f7ba26b60b30ff/web_app_files/containers/node_app/codebase_partner/index.js)
 
   **<details markdown=1><summary markdown="span">click for details</summary>**
 
