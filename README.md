@@ -241,4 +241,4 @@ Follow these steps for successful implementation:
 
 ### 4. Create the Docker-compose file "docker-compose.yml"
 
-- [**datasources.yml**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
+- [**docker-compose.yml**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
