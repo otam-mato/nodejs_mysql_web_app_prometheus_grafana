@@ -242,3 +242,14 @@ Follow these steps for successful implementation:
 ### 4. Create the Docker-compose file "docker-compose.yml"
 
 - [**docker-compose.yml**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
+
+### 5. Launch the "docker-compose.yml" file
+
+    ```
+    docker-compose up -d 
+    ```
+
+    <p align="center">
+      <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/68aa28ad-e7ea-4311-b07b-4ed61989627d" width="700px"/>
+    </p>
+
