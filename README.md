@@ -233,7 +233,7 @@ Follow these steps for successful implementation:
 
 ### 2. Create the configuration file for Prometheus"prometheus.yml"
 
-- [**prometheus.yml**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
+- [**prometheus.yml**](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/blob/1df4e59c05cee1305ac899b2aa6eca354ea1ac5d/web_app_files/containers/node_app/prometheus/prometheus.yml)
   
 ### 3. Create the configuration file for Grafana "datasources.yml"
 
