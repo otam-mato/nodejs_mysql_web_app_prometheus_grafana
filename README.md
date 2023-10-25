@@ -247,6 +247,7 @@ Follow these steps for successful implementation:
 
     ```
     docker-compose up -d 
+    
     ```
 
     <p align="center">
