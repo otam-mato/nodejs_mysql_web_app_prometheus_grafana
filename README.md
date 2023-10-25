@@ -217,10 +217,16 @@ Follow these steps for successful implementation:
 
 - [**package.json**](https://github.com/otam-mato/nodejs_elk/blob/1296ecd681aa431154f71953f839891f74ca50b2/app/config/config.js)
 
-  **<details markdown=1><summary markdown="span">Detailed app description</summary>**
+  **<details markdown=1><summary markdown="span">click for details</summary>**
+
+  ![image](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/0f1ff0c1-72fb-4f5c-8486-7740b062867b)
 
   </details>
   
 - [**index.js**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
+
+  **<details markdown=1><summary markdown="span">click for details</summary>**
+
+  </details>
 
 ### 2. Create the configuration file for Prometheus"prometheus.yml"
