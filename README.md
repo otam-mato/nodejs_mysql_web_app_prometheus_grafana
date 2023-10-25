@@ -209,5 +209,13 @@ Follow these steps for successful implementation:
   <img src="https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/d18c55d1-30e3-4a0c-8c94-a4fc6f70df09" width="700px"/>
 </p>
 
-
 <br>
+
+## Steps
+
+### 1. Modify the app files to allow Prometheus collecting metrics
+
+- [**package.json**](https://github.com/otam-mato/nodejs_elk/blob/1296ecd681aa431154f71953f839891f74ca50b2/app/config/config.js)
+- [**index.js**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
+
+### 2. Create the configuration file for Prometheus"prometheus.yml"
