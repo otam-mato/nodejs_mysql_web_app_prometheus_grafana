@@ -17,7 +17,7 @@
    We will use the Docker-compose file and pull images of Prometheus and Grafana from DockerHub
    
 2. **Node.js:**
-   We will use the same Docker-compose file to build a container, serving the app
+   We will use the same Docker-compose file to build a container, which will be serving the app
 
 <br>
 
@@ -183,5 +183,17 @@ Follow these steps for successful implementation:
 4. [**Create the configuration file for Grafana "datasources.yml"**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#3-launch-the-elk-stack-with-this-docker-compose-file)
 5. [**Create the Docker-compose file docker-compose.yml**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#4-to-employ-the-mysql-database-pull-and-run-this-image-from-dockerhub)
 7. [**Launch the docker-compose.yml file**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#5-launch-the-app-and-click-a-few-times-at-any-links-to-start-producing-logs)
+
+<br>
+
+## Screenshots
+
+<p align="center">
+  <img src="" width="700px"/>
+</p>
+
+<p align="center">
+  <img src="" width="700px"/>
+</p>
 
 <br>
