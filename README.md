@@ -215,7 +215,7 @@ Follow these steps for successful implementation:
 
 ### 1. Modify the app files to allow Prometheus collecting metrics
 
-- [**package.json**](https://github.com/otam-mato/nodejs_elk/blob/1296ecd681aa431154f71953f839891f74ca50b2/app/config/config.js)
+- [**package.json**](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/blob/866dee2b330e8239ab165b10f92b61bf58f6541d/web_app_files/containers/node_app/codebase_partner/package.json)
 
   **<details markdown=1><summary markdown="span">click for details</summary>**
 
