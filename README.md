@@ -140,7 +140,7 @@ Grafana is widely used by DevOps, system administrators, and data analysts for m
 
 ## Prerequisites
 
-- A work station or an **EC2** instance (I am using **Ubuntu 22.04**).
+- A work station or an **EC2** instance.
    
 - <details markdown=1><summary markdown="span">Install Docker-compose, Node.js, npm, and Git </summary>
    <br>
