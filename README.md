@@ -227,6 +227,8 @@ Follow these steps for successful implementation:
 
   **<details markdown=1><summary markdown="span">click for details</summary>**
 
+  ![image](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/assets/113034133/b33de535-5449-4571-8463-7f51741cd835)
+
   </details>
 
 ### 2. Create the configuration file for Prometheus"prometheus.yml"
