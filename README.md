@@ -243,7 +243,7 @@ Follow these steps for successful implementation:
 
 - [**docker-compose.yml**](https://github.com/otam-mato/nodejs_elk/blob/10accacf5ef25b4364e0e07a619b878a529d61e0/index.js)
 
-### 5. Launch the "docker-compose.yml" file
+### 5. Run all containers with the "docker-compose.yml" file
 
 ```
 docker-compose up -d  
