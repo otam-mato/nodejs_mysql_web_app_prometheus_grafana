@@ -178,7 +178,7 @@ Grafana is widely used by DevOps, system administrators, and data analysts for m
 
 Follow these steps for successful implementation:
 
-1. [**Modify the app files to allow Prometheus collecting metrics.**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#modify-the-app-files-to-employ-bunyan-for-logging)
+1. [**Modify the app files to allow Prometheus collecting metrics.**](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/blob/main/README.md#1-modify-the-app-files-to-allow-prometheus-collecting-metrics)
 2. [**Create the configuration file for Prometheus"prometheus.yml".**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#2-create-the-logstash-configuration-file)
 4. [**Create the configuration file for Grafana "datasources.yml"**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#3-launch-the-elk-stack-with-this-docker-compose-file)
 5. [**Create the Docker-compose file docker-compose.yml**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#4-to-employ-the-mysql-database-pull-and-run-this-image-from-dockerhub)
