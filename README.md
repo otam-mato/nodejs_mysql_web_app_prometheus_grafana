@@ -173,3 +173,17 @@ Grafana is widely used by DevOps, system administrators, and data analysts for m
   </details>
 
 <br>
+
+## Implementation
+
+Follow these steps for successful implementation:
+
+1. [**1**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#modify-the-app-files-to-employ-bunyan-for-logging)
+2. [**2**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#2-create-the-logstash-configuration-file)
+4. [**3**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#3-launch-the-elk-stack-with-this-docker-compose-file)
+5. [**4**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#4-to-employ-the-mysql-database-pull-and-run-this-image-from-dockerhub)
+7. [**5**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#5-launch-the-app-and-click-a-few-times-at-any-links-to-start-producing-logs)
+8. [**6**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#7-set-up-kibana-set-up-index-pattern-and-a-dashboard)
+9. [**7**](https://github.com/otam-mato/nodejs_elk/blob/main/README.md#7-result)
+
+<br>
