@@ -25,9 +25,9 @@ services:
       - grafana_data:/var/lib/grafana
       - /web_app_files/containers/node_app/grafana/datasources.yml:/etc/grafana/provisioning/datasources/datasources.yml
     environment:
-      - GF_AUTH_DISABLE_LOGIN_FORM=true
-      - GF_AUTH_ANONYMOUS_ENABLED=true
-      - GF_AUTH_ANONYMOUS_ORG_ROLE=Admin
+      - GF_AUTH_DISABLE_LOGIN_FORM=true # not for production, for testing purposes only
+      - GF_AUTH_ANONYMOUS_ENABLED=true # not for production, for testing purposes only
+      - GF_AUTH_ANONYMOUS_ORG_ROLE=Admin # not for production, for testing purposes only
     ports:
       - 3001:3000
     expose:
