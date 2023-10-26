@@ -1,4 +1,4 @@
-# Node.JS + MySQL Web App.<br><br>Monitoring with Prometheus and Grafana.
+# Node.JS + MySQL Web App.<br><br>Monitoring with Prometheus and Grafana of the default metrics.
 
 <br>
 
