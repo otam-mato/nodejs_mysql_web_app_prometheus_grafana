@@ -231,13 +231,17 @@ Follow these steps for successful implementation:
 
   </details>
 
-### 2. Create the configuration file for Prometheus"prometheus.yml". It will be pulled into the Prometheus container during its creation using Docker-compose.
+### 2. Create the configuration file for Prometheus"prometheus.yml". 
 
 - [**prometheus.yml**](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/blob/1df4e59c05cee1305ac899b2aa6eca354ea1ac5d/web_app_files/containers/node_app/prometheus/prometheus.yml)
+
+  It will be pulled into the Prometheus container during its creation using Docker-compose.
   
-### 3. Create the configuration file for Grafana "datasources.yml". It will be pulled into the Grafana container during its creation using Docker-compose.
+### 3. Create the configuration file for Grafana "datasources.yml". 
 
 - [**datasources.yml**](https://github.com/otam-mato/nodejs_mysql_web_app_prometheus_grafana/blob/main/README.md#3-create-the-configuration-file-for-grafana-datasourcesyml)
+
+  It will be pulled into the Grafana container during its creation using Docker-compose.
 
 ### 4. Create the Docker-compose file "docker-compose.yml"
 
