@@ -1,5 +1,3 @@
-[the page is under revision]
-
 # Node.JS + MySQL Web App.<br><br>Monitoring with Prometheus and Grafana.
 
 <br>
