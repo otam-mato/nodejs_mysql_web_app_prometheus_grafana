@@ -142,35 +142,7 @@ Grafana is widely used by DevOps, system administrators, and data analysts for m
 
 - A work station or an **EC2** instance.
    
-- <details markdown=1><summary markdown="span">Install Docker-compose, Node.js, npm, and Git </summary>
-   <br>
-   
-   - **Install Docker-compose**
-
-   ```
-   sudo apt update
-   sudo apt install docker-compose
-   ```
-   
-   - **Install Node.js**
-
-   ```
-   sudo apt install nodejs
-   ```
-   
-   - **Install npm**
-
-   ```
-   sudo apt install npm
-   ```
-   
-   - **Install Git if you want to clone this repository**
-
-   ```
-   sudo apt install git
-   ```
-   
-  </details>
+- Install Docker-compose, Node.js, npm, and Git
 
 <br>
 
