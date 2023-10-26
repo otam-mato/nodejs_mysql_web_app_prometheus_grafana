@@ -43,7 +43,7 @@
 
 ## Functionality
 
-This web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records. Monitoring implemented via **Prometheus** and **Grafana**.
+This web application interfaces with a MySQL database, facilitating CRUD (Create, Read, Update, Delete) operations on the database records. Monitoring is implemented via **Prometheus** and **Grafana**.
 
 **<details markdown=1><summary markdown="span">Detailed app description</summary>**
 
