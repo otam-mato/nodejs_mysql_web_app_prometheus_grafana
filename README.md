@@ -246,7 +246,7 @@ Follow these steps for successful implementation:
          - `image`: Specifies the Docker image for Grafana with version 7.1.5.
          - `container_name`: The name of the Grafana container is "grafana."
          - `volumes`: Mounts data source configuration (`datasources.yml`) from the host to the container and uses the `grafana_data` volume for data persistence.
-         - `environment`: Sets some environment variables to configure Grafana for anonymous access.
+         - `environment`: Sets some environment variables to configure Grafana for anonymous access to simplify the process of testing. Not for Production.
          - `ports`: Maps port 3001 from the host to port 3000 in the Grafana container.
          - `expose`: Exposes port 3000.
          - `networks`: Connects to the "my-network" custom Docker network.
