@@ -17,7 +17,7 @@
    We will use the Docker-compose file and pull images of Prometheus and Grafana from DockerHub
    
 2. **Node.js:**
-   We will use the same Docker-compose file to build the app container from a Docker file
+   We will use the same Docker-compose file to build the app container image from a Docker file
 
 <br>
 
