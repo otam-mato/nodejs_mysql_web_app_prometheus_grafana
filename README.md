@@ -1,4 +1,4 @@
-# Node.JS + MySQL Web App.<br><br>Monitoring with Prometheus and Grafana of the default metrics.
+# Node.JS + MySQL Web App.<br><br>Setting up monitoring of the default metrics with Prometheus and Grafana. Docker-compose deployment.
 
 <br>
 
